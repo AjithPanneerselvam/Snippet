@@ -1,4 +1,4 @@
-# snippet package
+# Snippet
 
 A short description of your package.
 
